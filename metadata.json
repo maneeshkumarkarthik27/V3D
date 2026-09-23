@@ -1,0 +1,8 @@
+{
+  "name": "V3D — Tamil Nadu 3D Digital Twin",
+  "description": "Volumetric 3D Property & Infrastructure Digital Twin for Tamil Nadu with candidate 3D ULPIN vertical mapping, underground utility modeling, and topology validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
